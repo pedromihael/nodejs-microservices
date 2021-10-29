@@ -33,6 +33,7 @@ Incidentes criados causam impactos em projetos e provedores. Para lidar com esta
 ### Estrutura de Diretórios
 
 Os diretórios estão organizados da seguinte maneira:
+
 ![Diretórios](assets/fig02.jpg?raw=true "fig02")
 
 A organização dos diretórios está baseada no Domain Driven Design, na Clean Architecture e adaptada para trabalhar com o padrão de repositórios. Para este trabalho, apenas o repositório de Postgres foi implementado, mas esta organização permite o uso de outros bancos, bastando apenas a implementação dos métodos básicos como feito com o de Postgres, e sua importação para uso com os useCases, uma vez que o repositório utilizado pelos useCases é uma dependência injetada nestes.
