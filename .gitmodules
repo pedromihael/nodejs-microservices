@@ -1,0 +1,3 @@
+[submodule "ms-frontend"]
+	path = ms-frontend
+	url = https://github.com/pedromihael/ms-frontend
