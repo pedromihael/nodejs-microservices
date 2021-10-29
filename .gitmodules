@@ -1,3 +1,21 @@
 [submodule "ms-frontend"]
 	path = ms-frontend
 	url = https://github.com/pedromihael/ms-frontend
+[submodule "nodejs-microservices-api-gateway"]
+	path = nodejs-microservices-api-gateway
+	url = https://github.com/pedromihael/nodejs-microservices-api-gateway
+[submodule "nodejs-microservices-incidents"]
+	path = nodejs-microservices-incidents
+	url = https://github.com/pedromihael/nodejs-microservices-incidents
+[submodule "nodejs-microservices-projects"]
+	path = nodejs-microservices-projects
+	url = https://github.com/pedromihael/nodejs-microservices-projects
+[submodule "nodejs-microservices-providers"]
+	path = nodejs-microservices-providers
+	url = https://github.com/pedromihael/nodejs-microservices-providers
+[submodule "nodejs-microservices-severities"]
+	path = nodejs-microservices-severities
+	url = https://github.com/pedromihael/nodejs-microservices-severities
+[submodule "nodejs-microservices-reliabilities"]
+	path = nodejs-microservices-reliabilities
+	url = https://github.com/pedromihael/nodejs-microservices-reliabilities
